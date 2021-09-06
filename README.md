@@ -66,7 +66,7 @@ You can click the Preview link to take a look at your changes.
             <tfoot>
             
             <tr>
-                <td row="1">15:45</td>
+                <td rowspan="1">15:45</td>
                 <td colspan="1">Come back home</td>
                 <td colspan="1">Come back home</td>
                 <td colspan="1">Come back home</td>
@@ -152,21 +152,21 @@ You can click the Preview link to take a look at your changes.
             </tfoot>
                 
             <tr>
-                <td row="1">11:00</td>
+                <td rowspan="1">11:00</td>
                 <td colspan="1">~</td>
                 <td colspan="1">~</td>
                 <td colspan="1">~</td>
                 <td colspan="1">~</td>
                 <td colspan="1">~</td>
                 <td colspan="1"><a href="https://www.dreamstime.com/illustration/back-come-home.html">Come back home</a></td>
-                <td>Come back home</td>   
+                <td colspan="1">Come back home</td>   
                 
             </tr>
             <tfoot>
             
             
             <tr>
-                <td row="1">12:00</td>
+                <td rowspan="1">12:00</td>
                 <td colspan="1"><a href="https://www.123rf.com/photo_72869431_stock-vector-girl-having-lunch-on-table-illustration.html" target = "_blank">Have a lunch</a></td>
                 <td colspan="1">Have a lunch</td>
                 <td colspan="1">Have a lunch</td>
