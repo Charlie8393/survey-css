@@ -12,6 +12,10 @@ h1{
     color: white;
 }
 
+h1{
+    font-family: cursive;
+}
+
 h5{
     color: violet;
 }
