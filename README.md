@@ -10,6 +10,7 @@ You can click the Preview link to take a look at your changes.
 --->
 h1{
     color: white;
+    background-color: green;
 }
 
 h1{
